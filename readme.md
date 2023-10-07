@@ -16,7 +16,7 @@ ________________________
 mongodb+srv://withonlykichu:<password>@cluster23.gfg9tno.mongodb.net/?retryWrites=true&w=majority
 ```
 ________________________
-**3.** ***Set your variables on [config.json]() & put the creds.json on [session]() folder***
+**3.** ***Set your variables on [config.json](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/blob/master/config.json) & put the creds.json on [session]() folder***
 ________________________
 ## ```Deploying methods🚧```
 **1.** ***Deploy on [replit](https://replit.com)***
