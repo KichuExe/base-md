@@ -5,10 +5,11 @@ ________________________
 ***This is a simple multi device whatsapp bot written in javascript and this bot is based on [@adiwajshing/baileys](https://github.com/whiskeySockets/Baileys) I hope it will help you to improve your whatsapp using experience. Don't forget to give me a star and fork. Thanks🙏🏼❤️!***
 ________________________
 ## ```SET UP🛠️```
-**1.** ***Get [Session]() by scaning OQ-code***
+**1.** ***First fork the repository***
+**2.** ***Get [Session]() by scaning OQ-code***
 *```Whatsapp>Three dots>Linked Devices```*
 ________________________
-**2.** ***Get a MongoDB uri from [mongodb](https://www.mongodb.com)|[Tutorial]()***
+**3.** ***Get a MongoDB uri from [mongodb](https://www.mongodb.com)|[Tutorial]()***
 
 **Free mongoDB URI is here👇🏼**
 ***Note:If it will shows error on mongodb uri add your own uri!***
@@ -16,7 +17,7 @@ ________________________
 mongodb+srv://withonlykichu:<password>@cluster23.gfg9tno.mongodb.net/?retryWrites=true&w=majority
 ```
 ________________________
-**3.** ***Set your variables on [config.json](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/blob/master/config.json) & put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder***
+**4.** ***Set your variables on [config.json](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/blob/master/config.json) & put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder***
 ________________________
 ## ```Deploying methods🚧```
 **1.** ***Deploy on [replit](https://replit.com)***
