@@ -6,6 +6,7 @@ ________________________
 ________________________
 ## ```SET UP🛠️```
 **1.** ***First fork the repository***
+________________________
 **2.** ***Get [Session]() by scaning OQ-code***
 *```Whatsapp>Three dots>Linked Devices```*
 ________________________
