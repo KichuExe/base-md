@@ -15,7 +15,7 @@ ________________________
 **Free mongoDB URI is here👇🏼**
 ***Note:If it will shows error on mongodb uri add your own uri!***
 ```
-mongodb+srv://withonlykichu:<password>@cluster23.gfg9tno.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://withonlykichu:noturkichu@cluster23.gfg9tno.mongodb.net/?retryWrites=true&w=majority
 ```
 ________________________
 **4.** ***Set your variables on [config.json](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/blob/master/config.json) & put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder***
