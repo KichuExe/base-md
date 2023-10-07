@@ -5,7 +5,7 @@ ________________________
 ***This is a simple multi device whatsapp bot written in javascript and this bot is based on [@adiwajshing/baileys](https://github.com/whiskeySockets/Baileys) I hope it will help you to improve your whatsapp using experience. Don't forget to give me a star and fork. Thanks🙏🏼❤️!***
 ________________________
 ## ```SET UP🛠️```
-**1.** ***First fork the repository***
+**1.** ***Fork this repository***
 ________________________
 **2.** ***Get [Session]() by scaning OQ-code***
 *```Whatsapp>Three dots>Linked Devices```*
