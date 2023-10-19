@@ -24,3 +24,7 @@ ________________________
 **1.** ***Deploy on [replit](https://replit.com)***
 
 **Tutorial:[Deploy on replit]()**
+________________________
+**2.** ***Deploy on [heroku](https://www.heroku.com/)***
+
+**Tutorial:[Deploy on heroku]()**
