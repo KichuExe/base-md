@@ -10,7 +10,7 @@ ________________________
 **2.** ***Get [Session](https://clash-wa-bot-qr.onrender.com/) by scaning OQ-code***
 *```Whatsapp>Three dots>Linked Devices```*
 ________________________
-**4.** ***Put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder & Also add your variables in config.js***
+**3.** ***Put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder & Also add your variables in config.js***
 ________________________
 ## ```Deploying methods🚧```
 **1.** ***Deploy on [replit](https://replit.com)***
