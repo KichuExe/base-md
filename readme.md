@@ -7,24 +7,12 @@ ________________________
 ## ```SET UP🛠️```
 **1.** ***Fork this repository***
 ________________________
-**2.** ***Get [Session]() by scaning OQ-code***
+**2.** ***Get [Session](https://clash-wa-bot-qr.onrender.com/) by scaning OQ-code***
 *```Whatsapp>Three dots>Linked Devices```*
 ________________________
-**3.** ***Get a MongoDB uri from [mongodb](https://www.mongodb.com)|[Tutorial]()***
-
-**Free mongoDB URI is here👇🏼**
-***Note:If it will shows error on mongodb uri add your own uri!***
-```
-mongodb+srv://withonlykichu:noturkichu@cluster23.gfg9tno.mongodb.net/?retryWrites=true&w=majority
-```
-________________________
-**4.** ***Set your variables on [config.json](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/blob/master/config.json) & put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder***
+**4.** ***Put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder & Also add your variables in config.js***
 ________________________
 ## ```Deploying methods🚧```
 **1.** ***Deploy on [replit](https://replit.com)***
 
 **Tutorial:[Deploy on replit]()**
-________________________
-**2.** ***Deploy on [heroku](https://www.heroku.com/)***
-
-**Tutorial:[Deploy on heroku]()**
