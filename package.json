@@ -13,7 +13,7 @@
     "start": "pm2 start . --attach --name clash-wa-bot",
     "stop": "pm2 stop . --attach --name clash-wa-bot"
   },
-  "author": "irfanhariyanto",
+  "author": "TOXIC-KICHUX",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
