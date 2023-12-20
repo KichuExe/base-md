@@ -14,5 +14,3 @@ ________________________
 ________________________
 ## ```Deploying methods🚧```
 **1.** ***Deploy on [replit](https://replit.com)***
-
-**Tutorial:[Deploy on replit]()**
