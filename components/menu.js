@@ -5,8 +5,6 @@ const now = require("performance-now");
 
 clash({pattern: "menu", fromMe: false, desc: "Show all bot commands.", type: "info",},
 async ({msg}) => {
-const more = String.fromCharCode(8206)
-const readMore = more.repeat(4001)
 const speed = now() - now();
 let [date, time] = new Date().toLocaleString("en-IN", {timeZone: "Asia/Kolkata"}).split(",");
 let menu = `     *[${config.BOT_NAME.toLowerCase()}]*
