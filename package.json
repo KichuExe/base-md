@@ -22,7 +22,6 @@
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "child_process": "^1.0.2",
-    "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.2",
     "fetch": "^1.1.0",
     "figlet": "^1.5.2",
