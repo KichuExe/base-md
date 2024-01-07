@@ -9,9 +9,7 @@
     "session": "session"
   },
   "scripts": {
-    "test": "node index.js",
-    "start": "pm2 start . --attach --name clash-wa-bot",
-    "stop": "pm2 stop . --attach --name clash-wa-bot"
+    "start": "node index.js"
   },
   "author": "TOXIC-KICHUX",
   "license": "MIT",
