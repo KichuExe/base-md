@@ -37,4 +37,3 @@ module.exports = {
           logging: false,
         }),
 };
-TOXIC-KICHTOXIC-KICHTOXIC-KICHTOXIC-KICHU
