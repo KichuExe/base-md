@@ -11,7 +11,6 @@ You may not use this file except in compliance with the License.
 const {default: makeWASocket, DisconnectReason, makeInMemoryStore, useMultiFileAuthState, generateWAMessageFromContent, getAggregateVotesInPollMessage} = require("@whiskeysockets/baileys")
 const figlet = require("figlet");
 const fs = require("fs");
-const web = require("./lib/server.js");
 const moment = require('moment')
 const logg = require('pino')
 const config = require("./config.js")
@@ -132,5 +131,4 @@ return conn
 connectToWhatsApp()
 .catch(err => console.log(err))
 }
-fanStart()
-web();
+fanStart();
