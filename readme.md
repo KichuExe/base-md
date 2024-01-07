@@ -14,3 +14,9 @@ ________________________
 ________________________
 ## ```Deploying methods🚧```
 **1.** ***Deploy on [replit](https://replit.com)***
+
+
+## ```Thanks to```
+- [`Adhiraj Singh`](https://github.com/adiwajshing)
+- [`WhiskeySockets`](https://github.com/WhiskeySockets)
+- [`Viper-X0`](https://github.com/Viper-X0)
