@@ -11,7 +11,7 @@ module.exports = {
   OWNER_NUMBER: ["919961857267@s.whatsapp.net", "919656459062@s.whatsapp.net"],
   STICKER_DATA: process.env.STICKER_DATA || "CLASH-WA-BOT;TOXIC-KICHUX",
   SUDO: process.env.SUDO || "919961857267,0",
-  API: process.env.API || "https://api-viper.onrender.com/", //don't change this link. If you change then some commands will not work!.
+  API: process.env.API || "https://api-viper.onrender.com", //don't change this link. If you change then some commands will not work!.
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   OWNER_NAME: process.env.OWNER_NAME || "TOXIC-KICHU",
