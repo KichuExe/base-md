@@ -9,7 +9,7 @@ module.exports = {
       ? "^[.]" // forfor null just "^" add this
       : "^[.]",
   BRANCH: "master",
-  OWNER_NUMBER: ["919961857267@s.whatsapp.net", "919656459062@s.whatsapp.net"],
+  OWNER_NUMBER: ["919961857267@s.whatsapp.net", "0@s.whatsapp.net"],
   STICKER_DATA: process.env.STICKER_DATA || "CLASH-WA-BOT;TOXIC-KICHUX",
   SUDO: process.env.SUDO || "919961857267,0",
   API: process.env.API || "https://api-viper.onrender.com", //don't change this link. If you change then some commands will not work!.
