@@ -1,8 +1,9 @@
 const { Sequelize } = require("sequelize");
 const DATABASE_URL = process.env.DATABASE_URL || "./lib/database.db";
+const toBool = (x) => x === "true";
 
 module.exports = {
-  LOGS: process.env.LOGS || "true", //false for if you don't want show the logs
+  LOGS: toBool(process.env.LOGS) || true, //false for if you don't want show the logs
   HANDLERS:
     process.env.HANDLER === "false" || process.env.HANDLER === "null"
       ? "^[.]" // forfor null just "^" add this
