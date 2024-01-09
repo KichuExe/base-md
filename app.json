@@ -1,0 +1,54 @@
+{
+  "name": "CLASH-WA-BOT",
+  "description": "WhatsApp bot.",
+  "logo": "https://i.imgur.com/5CHomMS.png",
+  "repository": "https://github.com/TOXIC-KICHUX/CLASH-WA-BOT",
+  "stack": "container",
+  "env": {
+    "LOGS": {
+      "description": "To show logs for showing true for not showing false.",
+      "required": true,
+      "value": "true"
+    },
+    "HANDLERS": {
+      "description": "Enter a prefix.",
+      "required": true,
+      "value": "."
+    },
+    "STICKER_DATA": {
+      "description": "Sticker metadata.",
+      "required": true,
+      "value": "CLASH-WA-BOT;TOXIC-KICHUX"
+    },
+    "OWNER_NAME": {
+      "description": "Type your name",
+      "required": true,
+      "value": "TOXIC-KICHUX"
+    },
+    "BOT_NAME": {
+      "description": "Type bot name",
+      "required": true,
+      "value": "CLASH-WA-BOT"
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Enter the same app name which you gave above.",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Paste your heroku api token here from https://dashboard.heroku.com/account/",
+      "required": true
+    },
+    "SUDO": {
+      "description": "Enter numbers with countrycode of whom you want to give usage access of Leon.",
+      "required": false,
+      "value": "919961857267,0"
+    },
+    "WORK_TYPE": {
+      "description": "Enter the bot mode: private or public.",
+      "required": true,
+      "value": "public"
+    }
+  },
+  "addons": [{ "plan": "heroku-postgresql" }],
+  "buildpacks": [{ "url": "heroku-community/apt" }]
+}
