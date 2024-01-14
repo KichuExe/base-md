@@ -1,13 +1,5 @@
-FROM node
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
-COPY package.json .
-RUN npm install && npm update
-COPY . .
-EXPOSE 8080
-CMD ["node", "index.js"]
+FROM quay.io/toxic_kichux/whatskrizai:latest
+RUN git clone https://github.com/Djjdkdm/CLASH-WA-BOT /root/CLASH-WA-BOT/
+WORKDIR /root/CLASH-WA-BOT/
+RUN yarn install --network-concurrency 1
+CMD ["node", "index.js", "--max_old_space_size=2560"]
