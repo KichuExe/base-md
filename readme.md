@@ -13,7 +13,10 @@ ________________________
 **3.** ***Put the creds.json on [session](https://github.com/TOXIC-KICHUX/CLASH-WA-BOT/tree/master/session) folder & Also add your variables in config.js***
 ________________________
 ## ```Deploying methods🚧```
-**1.** ***Deploy on [replit](https://replit.com)***
+**1.** **Deploy on HEROKU**
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-KICHUX/CLASH-WA-BOT)
+
+**2.** **Deploy on [replit](https://replit.com)**
 
 
 ## ```Thanks to```
